@@ -45,8 +45,7 @@
         "johnpbloch/wordpress": "4.7",
         "oscarotero/env": "^1.0",
         "roots/wp-password-bcrypt": "1.0.0",
-        "humanmade/s3-uploads": "^1.1",
-        "humanmade/cavalcade": "dev-master"
+        "humanmade/s3-uploads": "^1.1"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1"

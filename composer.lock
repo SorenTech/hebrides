@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3a425cc4bc53f480cb1a13fa530714fe",
-    "content-hash": "9a0c8ff50c0e8778a5fe2a40daa2824d",
+    "hash": "1bdaec9812f03c8e3d1cd8052f8a949b",
+    "content-hash": "1219b36ad607fd44cab5ec038a4c0fbd",
     "packages": [
         {
             "name": "composer/installers",
@@ -106,35 +106,6 @@
                 "zikula"
             ],
             "time": "2016-04-13 19:46:30"
-        },
-        {
-            "name": "humanmade/cavalcade",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/humanmade/Cavalcade.git",
-                "reference": "8599ab2e0cecad0d00888281eebb07ab94a7c5c3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/humanmade/Cavalcade/zipball/8599ab2e0cecad0d00888281eebb07ab94a7c5c3",
-                "reference": "8599ab2e0cecad0d00888281eebb07ab94a7c5c3",
-                "shasum": ""
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-muplugin",
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "Human Made",
-                    "homepage": "https://hmn.md/"
-                }
-            ],
-            "description": "A better wp-cron. Horizontally scalable, works perfectly with multisite.",
-            "homepage": "https://github.com/humanmade/Cavalcade",
-            "time": "2016-11-22 06:25:29"
         },
         {
             "name": "humanmade/s3-uploads",
@@ -486,9 +457,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "humanmade/cavalcade": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
