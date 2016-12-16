@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a6ba820344d6e4a45ec2f24af17b0f6e",
-    "content-hash": "27e91ce61a3c7fbb9d4c2a58ded784e9",
+    "hash": "39ff53c390e35ede0f49eb750325a37d",
+    "content-hash": "a6a939dfc7898274e8347126be1d89ce",
     "packages": [
         {
             "name": "composer/installers",
@@ -385,7 +385,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/batcache.1.4.zip",
-                "reference": null,
+                "reference": "tags/1.4",
                 "shasum": null
             },
             "require": {
@@ -393,6 +393,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/batcache/"
+        },
+        {
+            "name": "wpackagist-plugin/memcached",
+            "version": "3.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/memcached/",
+                "reference": "tags/3.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/memcached.3.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/memcached/"
         }
     ],
     "packages-dev": [
