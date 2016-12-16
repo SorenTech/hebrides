@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1bdaec9812f03c8e3d1cd8052f8a949b",
-    "content-hash": "1219b36ad607fd44cab5ec038a4c0fbd",
+    "hash": "a6ba820344d6e4a45ec2f24af17b0f6e",
+    "content-hash": "27e91ce61a3c7fbb9d4c2a58ded784e9",
     "packages": [
         {
             "name": "composer/installers",
@@ -373,6 +373,26 @@
                 "environment"
             ],
             "time": "2016-09-01 10:05:43"
+        },
+        {
+            "name": "wpackagist-plugin/batcache",
+            "version": "1.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/batcache/",
+                "reference": "tags/1.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/batcache.1.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/batcache/"
         }
     ],
     "packages-dev": [
