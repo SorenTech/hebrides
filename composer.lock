@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "361fb0e2ebbde12803677d73922135bb",
-    "content-hash": "794ebe267044fbf05ad3802ef831632d",
+    "hash": "e96e6e725f3d984bdd39bc30f947d670",
+    "content-hash": "d5ce90616acd01c00536b41ccea201d2",
     "packages": [
         {
             "name": "composer/installers",
@@ -433,6 +433,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/two-factor-authentication/"
+        },
+        {
+            "name": "wpackagist-plugin/updraftplus",
+            "version": "1.12.29",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/updraftplus/",
+                "reference": "tags/1.12.29"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.29.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/updraftplus/"
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
