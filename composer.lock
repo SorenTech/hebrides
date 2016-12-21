@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4c3cb5e6001bdfd3031747ff1cd2b420",
-    "content-hash": "928ad9e8ccb0d48a32730ee9687b8cac",
+    "hash": "2020f88672a9e928ac842d3dee5c0573",
+    "content-hash": "f6a5bca7acac06bd84fb858c5bb6ea91",
     "packages": [
         {
             "name": "composer/installers",
@@ -425,7 +425,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.13.zip",
-                "reference": null,
+                "reference": "tags/1.2.13",
                 "shasum": null
             },
             "require": {
@@ -433,6 +433,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/two-factor-authentication/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-security-audit-log",
+            "version": "2.5.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
+                "reference": "tags/2.5.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.5.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-security-audit-log/"
         }
     ],
     "packages-dev": [
