@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2020f88672a9e928ac842d3dee5c0573",
-    "content-hash": "f6a5bca7acac06bd84fb858c5bb6ea91",
+    "hash": "361fb0e2ebbde12803677d73922135bb",
+    "content-hash": "794ebe267044fbf05ad3802ef831632d",
     "packages": [
         {
             "name": "composer/installers",
@@ -445,7 +445,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.5.8.zip",
-                "reference": null,
+                "reference": "tags/2.5.8",
                 "shasum": null
             },
             "require": {
@@ -533,6 +533,26 @@
                 "standards"
             ],
             "time": "2016-11-30 04:02:31"
+        },
+        {
+            "name": "wpackagist-plugin/vulnerability-alerts",
+            "version": "1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/vulnerability-alerts/",
+                "reference": "tags/1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/vulnerability-alerts/"
         }
     ],
     "aliases": [],
