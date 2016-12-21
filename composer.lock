@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "39ff53c390e35ede0f49eb750325a37d",
-    "content-hash": "a6a939dfc7898274e8347126be1d89ce",
+    "hash": "4c3cb5e6001bdfd3031747ff1cd2b420",
+    "content-hash": "928ad9e8ccb0d48a32730ee9687b8cac",
     "packages": [
         {
             "name": "composer/installers",
@@ -405,7 +405,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/memcached.3.0.1.zip",
-                "reference": null,
+                "reference": "tags/3.0.1",
                 "shasum": null
             },
             "require": {
@@ -413,6 +413,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/memcached/"
+        },
+        {
+            "name": "wpackagist-plugin/two-factor-authentication",
+            "version": "1.2.13",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
+                "reference": "tags/1.2.13"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.13.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/two-factor-authentication/"
         }
     ],
     "packages-dev": [
