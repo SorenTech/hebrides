@@ -74,6 +74,12 @@ define('NONCE_SALT', env('NONCE_SALT'));
 define('AUTOMATIC_UPDATER_DISABLED', true);
 define('DISABLE_WP_CRON', env('DISABLE_WP_CRON') ?: false);
 define('DISALLOW_FILE_EDIT', true);
+define( 'WP_POST_REVISIONS', 10 );
+define( 'WP_MEMORY_LIMIT', '128M' );
+define( 'WP_MAX_MEMORY_LIMIT', '256M' );
+define( 'WP_CACHE', true );
+define( 'EMPTY_TRASH_DAYS', 15 );
+define( 'FORCE_SSL_ADMIN', true );
 
 /**
  * Bootstrap WordPress
