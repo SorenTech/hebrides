@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "dd030959063599341575533edb4e6ec4",
-    "content-hash": "3a16d957a3f54113d4582fa37412d060",
+    "hash": "dd071b2390bcd40c009a061ecb255e6e",
+    "content-hash": "33287e119ac99a44996315bf95792419",
     "packages": [
         {
             "name": "composer/installers",
@@ -395,6 +395,26 @@
             "homepage": "https://wordpress.org/plugins/batcache/"
         },
         {
+            "name": "wpackagist-plugin/broken-link-checker",
+            "version": "1.11.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
+                "reference": "tags/1.11.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/broken-link-checker/"
+        },
+        {
             "name": "wpackagist-plugin/jch-optimize",
             "version": "2.0.7",
             "source": {
@@ -425,7 +445,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/jetpack.4.4.2.zip",
-                "reference": null,
+                "reference": "tags/4.4.2",
                 "shasum": null
             },
             "require": {
