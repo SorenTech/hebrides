@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4d98dee53b544d1b7de4b965757d50c5",
-    "content-hash": "46228f1610c2b6ed93f4bf08477c4036",
+    "hash": "36acab9b3a91ddc3d7dd30fdc97b7b33",
+    "content-hash": "ea34581ba17795cb6e908f9f8a30d8ab",
     "packages": [
         {
             "name": "composer/installers",
@@ -393,6 +393,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/batcache/"
+        },
+        {
+            "name": "wpackagist-plugin/jch-optimize",
+            "version": "2.0.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/jch-optimize/",
+                "reference": "tags/2.0.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.0.7.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/jch-optimize/"
         },
         {
             "name": "wpackagist-plugin/memcached",

@@ -50,7 +50,8 @@
         "wpackagist-plugin/memcached": "^3.0",
         "wpackagist-plugin/two-factor-authentication": "^1.2",
         "wpackagist-plugin/wp-security-audit-log": "^2.5",
-        "wpackagist-plugin/updraftplus": "^1.12"
+        "wpackagist-plugin/updraftplus": "^1.12",
+        "wpackagist-plugin/jch-optimize": "^2.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1",
