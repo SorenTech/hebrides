@@ -53,7 +53,8 @@
         "wpackagist-plugin/updraftplus": "^1.12",
         "wpackagist-plugin/jch-optimize": "^2.0",
         "wpackagist-plugin/jetpack": "^4.4",
-        "wpackagist-plugin/broken-link-checker": "^1.11"
+        "wpackagist-plugin/broken-link-checker": "^1.11",
+        "wpackagist-plugin/wp-smushit": "^2.5"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1",

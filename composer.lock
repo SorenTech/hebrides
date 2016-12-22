@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "dd071b2390bcd40c009a061ecb255e6e",
-    "content-hash": "33287e119ac99a44996315bf95792419",
+    "hash": "b4d02363cd70071862b7f21d6c58b762",
+    "content-hash": "7250db6c6d017c31775087ee3a2a1e4e",
     "packages": [
         {
             "name": "composer/installers",
@@ -405,7 +405,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.2.zip",
-                "reference": null,
+                "reference": "tags/1.11.2",
                 "shasum": null
             },
             "require": {
@@ -533,6 +533,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-security-audit-log/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-smushit",
+            "version": "2.5.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-smushit/",
+                "reference": "tags/2.5.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.5.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-smushit/"
         }
     ],
     "packages-dev": [
