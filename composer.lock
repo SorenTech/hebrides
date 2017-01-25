@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ca75b851ae8748c13531b2dd058beb1",
+    "content-hash": "56c6dfe1c5c0801c763cbbac3534977d",
     "packages": [
         {
             "name": "composer/installers",
@@ -394,6 +394,26 @@
             "homepage": "https://wordpress.org/plugins/broken-link-checker/"
         },
         {
+            "name": "wpackagist-plugin/epoch",
+            "version": "1.0.14",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/epoch/",
+                "reference": "tags/1.0.14"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/epoch.1.0.14.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/epoch/"
+        },
+        {
             "name": "wpackagist-plugin/google-analytics-for-wordpress",
             "version": "5.5.4",
             "source": {
@@ -484,7 +504,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.1.zip",
-                "reference": null,
+                "reference": "tags/4.1",
                 "shasum": null
             },
             "require": {
