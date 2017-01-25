@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "56c6dfe1c5c0801c763cbbac3534977d",
+    "content-hash": "fda8c8d7d85a8c1abd4032a49510a58c",
     "packages": [
         {
             "name": "composer/installers",
@@ -404,7 +404,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/epoch.1.0.14.zip",
-                "reference": null,
+                "reference": "tags/1.0.14",
                 "shasum": null
             },
             "require": {
@@ -452,6 +452,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jch-optimize/"
+        },
+        {
+            "name": "wpackagist-plugin/postmatic-social-commenting",
+            "version": "1.1.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/postmatic-social-commenting/",
+                "reference": "tags/1.1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/postmatic-social-commenting.1.1.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
