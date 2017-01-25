@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d57e15210939154f1a5093bb69c3dfca",
+    "content-hash": "1ca75b851ae8748c13531b2dd058beb1",
     "packages": [
         {
             "name": "composer/installers",
@@ -404,7 +404,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.5.4.zip",
-                "reference": null,
+                "reference": "tags/5.5.4",
                 "shasum": null
             },
             "require": {
@@ -472,6 +472,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/updraftplus/"
+        },
+        {
+            "name": "wpackagist-plugin/wordpress-seo",
+            "version": "4.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                "reference": "tags/4.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-seo/"
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
