@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a7c8b8a47572a6fd63ca2c6792edd19c",
+    "content-hash": "a89793e1f437b5c3cf5668d9caca6b96",
     "packages": [
         {
             "name": "composer/installers",
@@ -141,16 +141,16 @@
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "4.7",
+            "version": "4.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "b327faa6feea3a4058178dee7ac8b512bd957e92"
+                "reference": "6a6a20e568db37fb501fe9deb75ed2a8600d1b30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/b327faa6feea3a4058178dee7ac8b512bd957e92",
-                "reference": "b327faa6feea3a4058178dee7ac8b512bd957e92",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/6a6a20e568db37fb501fe9deb75ed2a8600d1b30",
+                "reference": "6a6a20e568db37fb501fe9deb75ed2a8600d1b30",
                 "shasum": ""
             },
             "require": {
@@ -174,7 +174,7 @@
                 "blog",
                 "cms"
             ],
-            "time": "2016-12-06T18:46:46+00:00"
+            "time": "2017-01-11T17:46:47+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -394,17 +394,57 @@
             "homepage": "https://wordpress.org/plugins/broken-link-checker/"
         },
         {
-            "name": "wpackagist-plugin/jch-optimize",
-            "version": "2.0.7",
+            "name": "wpackagist-plugin/epoch",
+            "version": "1.0.14",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/2.0.7"
+                "url": "https://plugins.svn.wordpress.org/epoch/",
+                "reference": "tags/1.0.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.0.7.zip",
-                "reference": "tags/2.0.7",
+                "url": "https://downloads.wordpress.org/plugin/epoch.1.0.14.zip",
+                "reference": "tags/1.0.14",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/epoch/"
+        },
+        {
+            "name": "wpackagist-plugin/google-analytics-for-wordpress",
+            "version": "5.5.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
+                "reference": "tags/5.5.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.5.4.zip",
+                "reference": "tags/5.5.4",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/google-analytics-for-wordpress/"
+        },
+        {
+            "name": "wpackagist-plugin/jch-optimize",
+            "version": "2.0.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/jch-optimize/",
+                "reference": "tags/2.0.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.0.8.zip",
+                "reference": "tags/2.0.8",
                 "shasum": null
             },
             "require": {
@@ -414,37 +454,37 @@
             "homepage": "https://wordpress.org/plugins/jch-optimize/"
         },
         {
-            "name": "wpackagist-plugin/jetpack",
-            "version": "4.4.2",
+            "name": "wpackagist-plugin/postmatic-social-commenting",
+            "version": "1.1.1",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/4.4.2"
+                "url": "https://plugins.svn.wordpress.org/postmatic-social-commenting/",
+                "reference": "tags/1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.4.4.2.zip",
-                "reference": "tags/4.4.2",
+                "url": "https://downloads.wordpress.org/plugin/postmatic-social-commenting.1.1.1.zip",
+                "reference": "tags/1.1.1",
                 "shasum": null
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/jetpack/"
+            "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.13",
+            "version": "1.2.14",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.13"
+                "reference": "tags/1.2.14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.13.zip",
-                "reference": "tags/1.2.13",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.14.zip",
+                "reference": "tags/1.2.14",
                 "shasum": null
             },
             "require": {
@@ -455,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.12.29",
+            "version": "1.12.30",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.12.29"
+                "reference": "tags/1.12.30"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.29.zip",
-                "reference": "tags/1.12.29",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.30.zip",
+                "reference": "tags/1.12.30",
                 "shasum": null
             },
             "require": {
@@ -474,17 +514,37 @@
             "homepage": "https://wordpress.org/plugins/updraftplus/"
         },
         {
-            "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "2.5.8",
+            "name": "wpackagist-plugin/wordpress-seo",
+            "version": "4.1",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/2.5.8"
+                "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+                "reference": "tags/4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.5.8.zip",
-                "reference": "tags/2.5.8",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.1.zip",
+                "reference": "tags/4.1",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-seo/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-security-audit-log",
+            "version": "2.5.9.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
+                "reference": "tags/2.5.9.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.5.9.2.zip",
+                "reference": "tags/2.5.9.2",
                 "shasum": null
             },
             "require": {
@@ -495,16 +555,16 @@
         },
         {
             "name": "wpackagist-plugin/wp-smushit",
-            "version": "2.5.2",
+            "version": "2.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-smushit/",
-                "reference": "tags/2.5.2"
+                "reference": "tags/2.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.5.2.zip",
-                "reference": "tags/2.5.2",
+                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.5.3.zip",
+                "reference": "tags/2.5.3",
                 "shasum": null
             },
             "require": {
@@ -512,6 +572,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-smushit/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-spamshield",
+            "version": "1.9.9.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-spamshield/",
+                "reference": "tags/1.9.9.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-spamshield.1.9.9.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-spamshield/"
         }
     ],
     "packages-dev": [
@@ -615,16 +695,16 @@
         },
         {
             "name": "wpackagist-plugin/vulnerability-alerts",
-            "version": "1.3",
+            "version": "1.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/vulnerability-alerts/",
-                "reference": "tags/1.3"
+                "reference": "tags/1.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.zip",
-                "reference": "tags/1.3",
+                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.1.zip",
+                "reference": "tags/1.3.1",
                 "shasum": null
             },
             "require": {

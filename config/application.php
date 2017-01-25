@@ -76,6 +76,7 @@ define( 'S3_UPLOADS_KEY', env('S3_UPLOADS_KEY') );
 define( 'S3_UPLOADS_SECRET', env('S3_UPLOADS_SECRET') );
 define( 'S3_UPLOADS_REGION', env('S3_UPLOADS_REGION') );
 define( 'S3_UPLOADS_HTTP_CACHE_CONTROL', 365 * 24 * 60 * 60 );
+define( 'S3_UPLOADS_BUCKET_URL', env('S3_UPLOADS_BUCKET_RUL') );
 
 /**
  * Custom Settings
@@ -86,7 +87,6 @@ define('DISALLOW_FILE_EDIT', true);
 define( 'WP_POST_REVISIONS', 10 );
 define( 'WP_MEMORY_LIMIT', '128M' );
 define( 'WP_MAX_MEMORY_LIMIT', '256M' );
-define( 'WP_CACHE', true );
 define( 'EMPTY_TRASH_DAYS', 15 );
 define( 'FORCE_SSL_ADMIN', true );
 
