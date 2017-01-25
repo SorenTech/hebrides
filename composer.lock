@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a89793e1f437b5c3cf5668d9caca6b96",
+    "content-hash": "7ec41fd58d9532727715ee77b0a94070",
     "packages": [
         {
             "name": "composer/installers",
@@ -475,16 +475,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.14",
+            "version": "1.2.15",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.14"
+                "reference": "tags/1.2.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.14.zip",
-                "reference": "tags/1.2.14",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.15.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {

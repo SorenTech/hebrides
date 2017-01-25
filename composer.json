@@ -1,9 +1,9 @@
 {
-    "name": "roots/bedrock",
+    "name": "sorentech/hebrides",
     "type": "project",
     "license": "MIT",
-    "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-    "homepage": "https://roots.io/bedrock/",
+    "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure, forked from roots/bedrock and modified for internal use by Soren LLC",
+    "homepage": "https://soren.tech",
     "authors": [
         {
             "name": "Scott Walkinshaw",
@@ -14,7 +14,12 @@
             "name": "Ben Word",
             "email": "ben@benword.com",
             "homepage": "https://github.com/retlehs"
-        }
+        },
+	{
+	    "name": "Alex Floyd Marshall",
+	    "email": "apmarshall@soren.tech",
+	    "homepage": "https://soren.tech"
+	}
     ],
     "keywords": [
         "bedrock",
