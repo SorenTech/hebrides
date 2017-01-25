@@ -76,7 +76,7 @@ define( 'S3_UPLOADS_KEY', env('S3_UPLOADS_KEY') );
 define( 'S3_UPLOADS_SECRET', env('S3_UPLOADS_SECRET') );
 define( 'S3_UPLOADS_REGION', env('S3_UPLOADS_REGION') );
 define( 'S3_UPLOADS_HTTP_CACHE_CONTROL', 365 * 24 * 60 * 60 );
-define( 'S3_UPLOADS_BUCKET_URL', env('S3_UPLOADS_BUCKET_RUL') );
+define( 'S3_UPLOADS_BUCKET_URL', env('S3_UPLOADS_BUCKET_URL') );
 
 /**
  * Custom Settings
