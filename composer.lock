@@ -495,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.12.30",
+            "version": "1.12.32",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.12.30"
+                "reference": "tags/1.12.32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.30.zip",
-                "reference": "tags/1.12.30",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.32.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
