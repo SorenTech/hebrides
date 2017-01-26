@@ -1,4 +1,12 @@
 
+1.0.2 / 2017-01-26
+==================
+
+  * Fix: Update updraftplus to 1.12.32
+  * Fix: Upgrading to WordPress 4.7.2 security release
+  * Fix: Update dependency version designations so that non-breaking updates will be installed more seamlessly
+  * Fix: Updating reference tags for two-factor-authentication plugin and wp-spamshield
+
 1.0.1 / 2017-01-25
 ==================
 
