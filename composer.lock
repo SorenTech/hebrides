@@ -484,7 +484,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.15.zip",
-                "reference": null,
+                "reference": "tags/1.2.15",
                 "shasum": null
             },
             "require": {
@@ -584,7 +584,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-spamshield.1.9.9.8.zip",
-                "reference": null,
+                "reference": "tags/1.9.9.8",
                 "shasum": null
             },
             "require": {
