@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "812fc012a8dea775eb47b19f8b51b993",
+    "content-hash": "c1dda724fdf9c8f3ac70935cc4f474d8",
     "packages": [
         {
             "name": "composer/installers",
@@ -504,7 +504,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.32.zip",
-                "reference": null,
+                "reference": "tags/1.12.32",
                 "shasum": null
             },
             "require": {
@@ -572,26 +572,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-smushit/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-spamshield",
-            "version": "1.9.9.8",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-spamshield/",
-                "reference": "tags/1.9.9.8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-spamshield.1.9.9.8.zip",
-                "reference": "tags/1.9.9.8",
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-spamshield/"
         }
     ],
     "packages-dev": [
