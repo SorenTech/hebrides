@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c1dda724fdf9c8f3ac70935cc4f474d8",
+    "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
     "packages": [
         {
             "name": "composer/installers",
@@ -412,6 +412,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/epoch/"
+        },
+        {
+            "name": "wpackagist-plugin/goodbye-captcha",
+            "version": "3.1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/goodbye-captcha/"
         },
         {
             "name": "wpackagist-plugin/google-analytics-for-wordpress",
