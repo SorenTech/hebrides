@@ -1,4 +1,10 @@
 
+1.1 / 2017-01-27
+==================
+
+  * Fix: Adding Goodbye Captcha/WP Bruiser plugin for spam protection
+  * Fix: Remove WP-Spamshield-- not compatible with nginx
+
 1.0.2 / 2017-01-26
 ==================
 

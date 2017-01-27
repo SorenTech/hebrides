@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "812fc012a8dea775eb47b19f8b51b993",
+    "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
     "packages": [
         {
             "name": "composer/installers",
@@ -414,6 +414,26 @@
             "homepage": "https://wordpress.org/plugins/epoch/"
         },
         {
+            "name": "wpackagist-plugin/goodbye-captcha",
+            "version": "3.1.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/goodbye-captcha/"
+        },
+        {
             "name": "wpackagist-plugin/google-analytics-for-wordpress",
             "version": "5.5.4",
             "source": {
@@ -504,7 +524,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.32.zip",
-                "reference": null,
+                "reference": "tags/1.12.32",
                 "shasum": null
             },
             "require": {
@@ -572,26 +592,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-smushit/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-spamshield",
-            "version": "1.9.9.8",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-spamshield/",
-                "reference": "tags/1.9.9.8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-spamshield.1.9.9.8.zip",
-                "reference": "tags/1.9.9.8",
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-spamshield/"
         }
     ],
     "packages-dev": [
