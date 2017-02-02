@@ -424,7 +424,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -495,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.15",
+            "version": "1.2.16",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.15"
+                "reference": "tags/1.2.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.15.zip",
-                "reference": "tags/1.2.15",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.16.zip",
+                "reference": "tags/1.2.16",
                 "shasum": null
             },
             "require": {
@@ -535,16 +535,16 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "4.1",
+            "version": "4.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/4.1"
+                "reference": "tags/4.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.1.zip",
-                "reference": "tags/4.1",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.2.1.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
