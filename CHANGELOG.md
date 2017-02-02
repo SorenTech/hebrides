@@ -1,4 +1,10 @@
 
+1.1.1. / 2017-02-02
+==================
+
+  * Updating wordpress-seo to 4.2.1
+  * Updated two-factor-authentication to 1.2.16
+
 1.1 / 2017-01-27
 ==================
 
