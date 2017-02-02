@@ -504,7 +504,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.16.zip",
-                "reference": null,
+                "reference": "tags/1.2.16",
                 "shasum": null
             },
             "require": {
