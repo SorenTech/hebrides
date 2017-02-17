@@ -1,4 +1,14 @@
 
+1.2.0 / 2016-02-17
+==================
+
+  * Feat: Adding s3 uploads variables to our sample .env file
+  * Updating goodbye-captchca to 3.1.3
+  * Updating wordpress-seo to 4.3
+  * Updating wp-security-audit-log to 2.6
+  * Updating two-factor-authentication to 1.2.17
+  * Pulling down changes from upstream master
+
 1.1.1. / 2017-02-02
 ==================
 
