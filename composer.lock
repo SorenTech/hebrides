@@ -535,16 +535,16 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "4.2.1",
+            "version": "4.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/4.2.1"
+                "reference": "tags/4.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.2.1.zip",
-                "reference": "tags/4.2.1",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.3.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -564,7 +564,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.zip",
-                "reference": null,
+                "reference": "tags/2.6",
                 "shasum": null
             },
             "require": {
