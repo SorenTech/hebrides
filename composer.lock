@@ -1,10 +1,11 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#-the-lock-file",
         "This file is @generated automatically"
     ],
     "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
+    "hash": "7d1b07e9f84a8cffffb1a67d2e49ec01",
     "packages": [
         {
             "name": "composer/installers",
@@ -223,6 +224,7 @@
                 "wordpress"
             ],
             "time": "2015-06-11T15:15:30+00:00"
+            "time": "2015-06-11 15:15:30"
         },
         {
             "name": "oscarotero/env",
