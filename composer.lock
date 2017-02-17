@@ -1,11 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
-    "hash": "7d1b07e9f84a8cffffb1a67d2e49ec01",
     "packages": [
         {
             "name": "composer/installers",
@@ -224,7 +223,6 @@
                 "wordpress"
             ],
             "time": "2015-06-11T15:15:30+00:00"
-            "time": "2015-06-11 15:15:30"
         },
         {
             "name": "oscarotero/env",
@@ -497,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.16",
+            "version": "1.2.17",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.16"
+                "reference": "tags/1.2.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.16.zip",
-                "reference": "tags/1.2.16",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.17.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -546,7 +544,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.2.1.zip",
-                "reference": null,
+                "reference": "tags/4.2.1",
                 "shasum": null
             },
             "require": {
