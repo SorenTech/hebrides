@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
+    "content-hash": "932f391334008b2664a345a0439be3f1",
     "packages": [
         {
             "name": "composer/installers",
@@ -424,7 +424,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -434,24 +434,24 @@
             "homepage": "https://wordpress.org/plugins/goodbye-captcha/"
         },
         {
-            "name": "wpackagist-plugin/google-analytics-for-wordpress",
-            "version": "5.5.4",
+            "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+            "version": "4.9.6.2",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
-                "reference": "tags/5.5.4"
+                "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                "reference": "tags/4.9.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.5.4.zip",
-                "reference": "tags/5.5.4",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.4.9.6.2.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/google-analytics-for-wordpress/"
+            "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/"
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
@@ -495,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.17",
+            "version": "1.2.21",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.17"
+                "reference": "tags/1.2.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.17.zip",
-                "reference": "tags/1.2.17",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.21.zip",
+                "reference": "tags/1.2.21",
                 "shasum": null
             },
             "require": {
@@ -515,16 +515,16 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.12.32",
+            "version": "1.12.34",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.12.32"
+                "reference": "tags/1.12.34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.32.zip",
-                "reference": "tags/1.12.32",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.34.zip",
+                "reference": "tags/1.12.34",
                 "shasum": null
             },
             "require": {
@@ -535,16 +535,16 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "4.3",
+            "version": "4.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/4.3"
+                "reference": "tags/4.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.3.zip",
-                "reference": "tags/4.3",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.4.zip",
+                "reference": "tags/4.4",
                 "shasum": null
             },
             "require": {
