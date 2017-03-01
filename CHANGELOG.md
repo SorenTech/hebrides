@@ -1,4 +1,12 @@
 
+1.3.0 / 2017-03-01
+==================
+
+  * Swapping MonsterInsights for Google Analytics Dashboard
+  * Updating wordpress-seo to 4.4
+  * Updating updraftplus to 1.12.34
+  * Updating two-factor-authentication to 1.2.21
+
 1.2.0 / 2016-02-17
 ==================
 
