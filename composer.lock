@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "87a09b93ed1dcc60bd9981b7397df5f3",
+    "content-hash": "932f391334008b2664a345a0439be3f1",
     "packages": [
         {
             "name": "composer/installers",
@@ -434,24 +434,24 @@
             "homepage": "https://wordpress.org/plugins/goodbye-captcha/"
         },
         {
-            "name": "wpackagist-plugin/google-analytics-for-wordpress",
-            "version": "5.5.4",
+            "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
+            "version": "4.9.6.2",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
-                "reference": "tags/5.5.4"
+                "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
+                "reference": "tags/4.9.6.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.5.5.4.zip",
-                "reference": "tags/5.5.4",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.4.9.6.2.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/google-analytics-for-wordpress/"
+            "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/"
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
@@ -544,7 +544,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.4.zip",
-                "reference": null,
+                "reference": "tags/4.4",
                 "shasum": null
             },
             "require": {
