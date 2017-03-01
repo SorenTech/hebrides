@@ -504,7 +504,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.21.zip",
-                "reference": null,
+                "reference": "tags/1.2.21",
                 "shasum": null
             },
             "require": {
@@ -515,16 +515,16 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.12.32",
+            "version": "1.12.34",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.12.32"
+                "reference": "tags/1.12.34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.32.zip",
-                "reference": "tags/1.12.32",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.34.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
