@@ -424,7 +424,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -495,16 +495,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.17",
+            "version": "1.2.21",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.17"
+                "reference": "tags/1.2.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.17.zip",
-                "reference": "tags/1.2.17",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.21.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
