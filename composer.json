@@ -61,7 +61,8 @@
         "wpackagist-plugin/epoch": "^1.0",
         "wpackagist-plugin/postmatic-social-commenting": "^1.1",
         "wpackagist-plugin/goodbye-captcha": "^3.1",
-        "wpackagist-plugin/google-analytics-dashboard-for-wp": "4.9.6.2"
+        "wpackagist-plugin/google-analytics-dashboard-for-wp": "4.9.6.2",
+        "wpackagist-plugin/bnfw": "^1.6"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1",
