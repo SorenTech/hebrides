@@ -71,7 +71,7 @@
     "extra": {
         "installer-paths": {
             "web/app/mu-plugins/{$name}/": [
-                "type:wordpress-muplugin", "humanmade/s3-uploads", "wpackagist-plugin/jch-optimize", "wpackagsit-plugin/broken-link-checker", "wpackagist-plugin/wp-smushit", "wpackagist-plugin/epoch", "wpackagist-plugin/goodbye-captcha", "wpackagist-plugin/two-factor-authentication", "wpackagist-plugin/updraftplus", "wpackagist-plugin/wordpress-seo", "wpackagist-plugin/wp-security-audit-log"
+                "type:wordpress-muplugin"
             ],
             "web/app/plugins/{$name}/": [
                 "type:wordpress-plugin"
