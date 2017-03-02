@@ -1,10 +1,10 @@
 #!/bin/sh
 
 DEVDIR="web/app/uploads/"
-DEVSITE="https://example.dev"
+DEVSITE="https://greensfarmschurch.dev"
 
-PRODDIR="web@example.com:/srv/www/example.com/shared/uploads/"
-PRODSITE="https://example.com"
+PRODDIR="sorenmed@sorenmediagroup.com:/www/greensfarmschurch/sitebuild/wp-content/uploads/"
+PRODSITE="http://greensfarmschurch.org"
 
 STAGDIR="web@staging.example.com:/srv/www/example.com/shared/uploads/"
 STAGSITE="https://staging.example.com"
