@@ -1,1 +1,11 @@
-path: web/wp
+# path: web/wp
+
+@development
+    ssh: vagrant@greensfarmschurch.dev/srv/www/greensfarmschurch.org/current
+    path: web/wp
+
+@production
+    ssh: sorenmed@sorenmediagroup.com/www/greensfarmschurch
+    path: /
+
+
