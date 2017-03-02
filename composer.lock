@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "489b633c521a698734b5a9dfb0713694",
+    "content-hash": "a528c41ae875d0edfb4b089d006445b9",
     "packages": [
         {
             "name": "apmarshall/ultimatum",
@@ -549,7 +549,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/image-widget.4.3.zip",
-                "reference": null,
+                "reference": "tags/4.3",
                 "shasum": null
             },
             "require": {
@@ -577,6 +577,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jch-optimize/"
+        },
+        {
+            "name": "wpackagist-plugin/post-types-order",
+            "version": "1.9.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/post-types-order/",
+                "reference": "tags/1.9.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/post-types-order.1.9.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/post-types-order/"
         },
         {
             "name": "wpackagist-plugin/postmatic-social-commenting",
