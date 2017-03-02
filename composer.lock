@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a528c41ae875d0edfb4b089d006445b9",
+    "content-hash": "dbd29335200f633ba3541475d4b4fdf3",
     "packages": [
         {
             "name": "apmarshall/ultimatum",
@@ -589,7 +589,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/post-types-order.1.9.3.zip",
-                "reference": null,
+                "reference": "tags/1.9.3",
                 "shasum": null
             },
             "require": {
@@ -617,6 +617,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
+        },
+        {
+            "name": "wpackagist-plugin/staffer",
+            "version": "1.3.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/staffer/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/staffer.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/staffer/"
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
