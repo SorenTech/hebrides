@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "b0b8c2987f5d06dd3a6c03a13e60783e",
+    "content-hash": "99271a29ca78f21ee74b23c340f66ab3",
     "packages": [
         {
             "name": "apmarshall/ultimatum",
@@ -449,7 +449,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.5.0.4.zip",
-                "reference": null,
+                "reference": "tags/1.5.0.4",
                 "shasum": null
             },
             "require": {
@@ -457,6 +457,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/caldera-forms/"
+        },
+        {
+            "name": "wpackagist-plugin/email-post-changes",
+            "version": "1.7.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/email-post-changes/",
+                "reference": "tags/1.7.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/email-post-changes.1.7.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/email-post-changes/"
         },
         {
             "name": "wpackagist-plugin/epoch",
