@@ -69,7 +69,8 @@
 	"apmarshall/ultimatum": "dev-master",
         "wpackagist-plugin/all-in-one-event-calendar": "^2.5",
         "wpackagist-plugin/caldera-forms": "1.5.0.4",
-        "wpackagist-plugin/email-post-changes": "^1.7"
+        "wpackagist-plugin/email-post-changes": "^1.7",
+        "wpackagist-plugin/image-widget": "^4.3"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1",

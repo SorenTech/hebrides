@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "99271a29ca78f21ee74b23c340f66ab3",
+    "content-hash": "489b633c521a698734b5a9dfb0713694",
     "packages": [
         {
             "name": "apmarshall/ultimatum",
@@ -469,7 +469,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/email-post-changes.1.7.1.zip",
-                "reference": null,
+                "reference": "tags/1.7.1",
                 "shasum": null
             },
             "require": {
@@ -537,6 +537,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/"
+        },
+        {
+            "name": "wpackagist-plugin/image-widget",
+            "version": "4.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/image-widget/",
+                "reference": "tags/4.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/image-widget.4.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/image-widget/"
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
