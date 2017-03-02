@@ -1,4 +1,9 @@
 
+1.4.0.2 / 2017-03-02
+==================
+
+  * Fix: removing auto-loading for now because it doesn't seem to work
+
 1.4.0.1 / 2017-03-01
 ==================
 
