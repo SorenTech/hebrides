@@ -37,12 +37,16 @@
     "config": {
         "preferred-install": "dist"
     },
-    "repositories": {
-        "0": {
+    "repositories": [
+        {
             "type": "composer",
             "url": "https://wpackagist.org"
-        }
-    },
+        },
+	{
+	    "type": "vcs",
+	    "url": "git@bitbucket.org:apmarshall/ultimatum.git"
+	}
+    ],
     "require": {
         "php": ">=5.6",
         "composer/installers": "~1.0.12",
@@ -61,7 +65,8 @@
         "wpackagist-plugin/epoch": "^1.0",
         "wpackagist-plugin/postmatic-social-commenting": "^1.1",
         "wpackagist-plugin/goodbye-captcha": "^3.1",
-        "wpackagist-plugin/google-analytics-dashboard-for-wp": "4.9.6.2"
+        "wpackagist-plugin/google-analytics-dashboard-for-wp": "4.9.6.2",
+	"apmarshall/ultimatum": "dev-master"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.5.1",

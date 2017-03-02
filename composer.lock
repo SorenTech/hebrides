@@ -4,8 +4,33 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "932f391334008b2664a345a0439be3f1",
+    "content-hash": "0ddf4dcb7cef32c4cf0990cf9883a14e",
     "packages": [
+        {
+            "name": "apmarshall/ultimatum",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:apmarshall/ultimatum.git",
+                "reference": "d38ee415b30eae341749318bdd4429f8b4da5c61"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "license": [
+                "GNU GPLv2"
+            ],
+            "authors": [
+                {
+                    "name": "ultimatumtheme",
+                    "homepage": "https://ultimatumtheme.com"
+                }
+            ],
+            "description": "buddypress, full-customizable, translation-ready, theme framework",
+            "homepage": "https://ultimatumtheme.com",
+            "time": "2017-03-02 16:48:31"
+        },
         {
             "name": "composer/installers",
             "version": "v1.0.25",
@@ -444,7 +469,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.4.9.6.2.zip",
-                "reference": null,
+                "reference": "tags/4.9.6.2",
                 "shasum": null
             },
             "require": {
@@ -716,7 +741,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "apmarshall/ultimatum": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
