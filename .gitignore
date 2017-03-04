@@ -21,10 +21,6 @@ sql-dump-*.sql
 .env.*
 !.env.example
 
-# Vendor (e.g. Composer)
-vendor/*
-!vendor/.gitkeep
-
 # Node Package Manager
 node_modules
 
@@ -35,4 +31,7 @@ bin
 # Composer
 vendor/*
 !vendor/.gitkeep
+composer.phar
+
+
 
