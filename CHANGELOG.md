@@ -1,4 +1,10 @@
 
+1.5.1 / 2017-03-04
+==================
+
+  * Upgrading updraftplus to 1.12.35
+  * Initial checkin of synch.sh script
+
 1.5.0 / 2017-03-02
 ==================
 
