@@ -35,5 +35,7 @@ vendor/*
 !vendor/.gitkeep
 composer.phar
 
-
+# Server
+access-logs
+default.htm
 
