@@ -424,7 +424,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -555,16 +555,16 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.12.34",
+            "version": "1.12.35",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.12.34"
+                "reference": "tags/1.12.35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.34.zip",
-                "reference": "tags/1.12.34",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.35.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
