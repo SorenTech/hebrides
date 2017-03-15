@@ -2,9 +2,13 @@
 web/app/plugins/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
+web/app/themes/*
+!web/app/themes/.gitkeep
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
+web/php_errorlog
+web/php_mail.log
 
 # WordPress
 web/wp
@@ -19,10 +23,6 @@ sql-dump-*.sql
 .env.*
 !.env.example
 
-# Vendor (e.g. Composer)
-vendor/*
-!vendor/.gitkeep
-
 # Node Package Manager
 node_modules
 
@@ -33,4 +33,9 @@ bin
 # Composer
 vendor/*
 !vendor/.gitkeep
+composer.phar
+
+# Server
+access-logs
+default.htm
 
