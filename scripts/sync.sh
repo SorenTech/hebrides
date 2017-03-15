@@ -4,7 +4,7 @@ DEVDIR="web/app/uploads/"
 DEVSITE="https://example.dev"
 
 PRODDIR="web@example.com:/srv/www/example.com/shared/uploads/"
-PRODSITE="https://example.com"
+PRODSITE="http://example.com"
 
 STAGDIR="web@staging.example.com:/srv/www/example.com/shared/uploads/"
 STAGSITE="https://staging.example.com"
