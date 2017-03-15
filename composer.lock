@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5527ae917d8c66362b6771ea9699447f",
+    "content-hash": "8f43db5d0929e4b3c283533ccbb63331",
     "packages": [
         {
             "name": "composer/installers",
@@ -384,7 +384,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/bnfw.1.6.3.zip",
-                "reference": null,
+                "reference": "tags/1.6.3",
                 "shasum": null
             },
             "require": {
@@ -412,6 +412,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/broken-link-checker/"
+        },
+        {
+            "name": "wpackagist-plugin/cloudflare",
+            "version": "3.2.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cloudflare/",
+                "reference": "tags/3.2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.2.1.zip",
+                "reference": "tags/3.2.1",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cloudflare/"
         },
         {
             "name": "wpackagist-plugin/dashboard-widgets-suite",
@@ -534,6 +554,26 @@
             "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
         },
         {
+            "name": "wpackagist-plugin/so-widgets-bundle",
+            "version": "1.8.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
+                "reference": "tags/1.8.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.8.1.zip",
+                "reference": "tags/1.8.1",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/so-widgets-bundle/"
+        },
+        {
             "name": "wpackagist-plugin/two-factor-authentication",
             "version": "1.2.21",
             "source": {
@@ -564,7 +604,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/updraftplus.1.12.35.zip",
-                "reference": null,
+                "reference": "tags/1.12.35",
                 "shasum": null
             },
             "require": {
@@ -604,7 +644,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.1.zip",
-                "reference": null,
+                "reference": "tags/2.6.1",
                 "shasum": null
             },
             "require": {
@@ -624,7 +664,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.6.1.zip",
-                "reference": null,
+                "reference": "tags/2.6.1",
                 "shasum": null
             },
             "require": {

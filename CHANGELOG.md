@@ -1,4 +1,9 @@
 
+1.5.3 / 2017-03-15
+==================
+
+  * Feat: Add Cloudflare and so-widgets-bundle as part of core stack
+
 1.5.2 / 2017-03-15
 ==================
 

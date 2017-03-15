@@ -53,6 +53,7 @@
     "wpackagist-plugin/two-factor-authentication": "^1.2",
     "wpackagist-plugin/updraftplus": "^1.12",
     "wpackagist-plugin/wp-security-audit-log": "^2.5",
+    "wpackagist-plugin/cloudflare": "^3.2",
     "wpackagist-plugin/jch-optimize": "^2.0",
     "humanmade/s3-uploads": "^1.1",
     "wpackagist-plugin/wp-smushit": "^2.5",
@@ -62,7 +63,8 @@
     "wpackagist-plugin/google-analytics-dashboard-for-wp": "^4.9",
     "wpackagist-plugin/wordpress-seo": "^4.1",
     "wpackagist-plugin/epoch": "^1.0",
-    "wpackagist-plugin/postmatic-social-commenting": "^1.1"
+    "wpackagist-plugin/postmatic-social-commenting": "^1.1",
+    "wpackagist-plugin/so-widgets-bundle": "^1.8"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1",
