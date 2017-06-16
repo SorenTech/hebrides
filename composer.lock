@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8832212a1ba6ce654f1531388d3611c7",
+    "content-hash": "85eecf92fae8fcfa9c926330ca762137",
     "packages": [
         {
             "name": "composer/installers",
@@ -534,6 +534,26 @@
             "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
         },
         {
+            "name": "wpackagist-plugin/shortpixel-image-optimiser",
+            "version": "4.4.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
+                "reference": "tags/4.4.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.4.2.zip",
+                "reference": "tags/4.4.2",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/shortpixel-image-optimiser/"
+        },
+        {
             "name": "wpackagist-plugin/so-widgets-bundle",
             "version": "1.8.1",
             "source": {
@@ -652,26 +672,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-security-audit-log/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-smushit",
-            "version": "2.6.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-smushit/",
-                "reference": "tags/2.6.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.6.1.zip",
-                "reference": "tags/2.6.1",
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-smushit/"
         }
     ],
     "packages-dev": [
@@ -764,7 +764,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/bnfw.1.6.3.zip",
-                "reference": "tags/1.6.3",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -812,6 +812,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/vulnerability-alerts/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-smushit",
+            "version": "2.6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-smushit/",
+                "reference": "tags/2.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.6.1.zip",
+                "reference": "tags/2.6.1",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-smushit/"
         }
     ],
     "aliases": [],
