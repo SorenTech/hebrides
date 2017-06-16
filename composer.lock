@@ -794,26 +794,6 @@
             "time": "2017-03-01T22:17:45+00:00"
         },
         {
-            "name": "wpackagist-plugin/bnfw",
-            "version": "1.6.3",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/bnfw/",
-                "reference": "tags/1.6.3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/bnfw.1.6.3.zip",
-                "reference": "tags/1.6.3",
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/bnfw/"
-        },
-        {
             "name": "wpackagist-plugin/developer",
             "version": "1.2.6",
             "source": {
