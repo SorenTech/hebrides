@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5148be86e8e3488e6643564636cf91ed",
+    "content-hash": "7aa31f3731c991493493348670b1589b",
     "packages": [
         {
             "name": "composer/installers",
@@ -515,16 +515,16 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "4.9.6.2",
+            "version": "5.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "tags/4.9.6.2"
+                "reference": "tags/5.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.4.9.6.2.zip",
-                "reference": "tags/4.9.6.2",
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.5.0.1.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -615,16 +615,16 @@
         },
         {
             "name": "wpackagist-plugin/sparkpost",
-            "version": "2.6.4",
+            "version": "3.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sparkpost/",
-                "reference": "tags/2.6.4"
+                "reference": "tags/3.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sparkpost.2.6.4.zip",
-                "reference": "tags/2.6.4",
+                "url": "https://downloads.wordpress.org/plugin/sparkpost.3.0.1.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
