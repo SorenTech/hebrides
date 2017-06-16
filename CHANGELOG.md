@@ -1,4 +1,26 @@
 
+2.0 / 2017-06-16
+==================
+
+  * Updating google analytics dahsboard to 5.0.1, sparkpost to 3.0.1
+  * Bump google-analytics-dashboard and sparkpost plugins for major updates
+  * Remove wp-smushit from wp-lock
+  * Update wp-security-audit-log to 2.6.4
+  * Updating wordpress-seo to 4.9
+  * Updating updraftplus to 1.13.4
+  * Update two-factor-authentication to 1.2.22
+  * Updating so-widgets-bundle to 1.9.2
+  * Updating jch-optimize to 2.1
+  * Updating goodbye-captcah to 3.1.6
+  * Updating dashboard widgets suite to 1.4
+  * Updating broken link checker to 1.11.3
+  * Fix: remove bnfw plugin from composer.lock
+  * Reinstalling wordpress core to work around update to johnpbloch repo structure
+  * Updating compser.lock to include new installed packages
+  * Feat: Switch to shortpixel for image compression (better performance)
+  * Fix: ignore error logs in version control
+  * Feat: Switch to using sparkpost for email, better interoperability between different sites
+
 1.5.3 / 2017-03-15
 ==================
 
