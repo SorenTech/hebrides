@@ -604,7 +604,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.9.2.zip",
-                "reference": null,
+                "reference": "tags/1.9.2",
                 "shasum": null
             },
             "require": {
@@ -635,16 +635,16 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.21",
+            "version": "1.2.22",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.21"
+                "reference": "tags/1.2.22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.21.zip",
-                "reference": "tags/1.2.21",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.22.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
