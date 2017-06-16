@@ -544,7 +544,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.1.0.zip",
-                "reference": null,
+                "reference": "tags/2.1.0",
                 "shasum": null
             },
             "require": {
@@ -595,16 +595,16 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.8.1",
+            "version": "1.9.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.8.1"
+                "reference": "tags/1.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.8.1.zip",
-                "reference": "tags/1.8.1",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.9.2.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
