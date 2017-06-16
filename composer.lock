@@ -464,7 +464,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.1.4.zip",
-                "reference": null,
+                "reference": "tags/1.4",
                 "shasum": null
             },
             "require": {
@@ -495,7 +495,7 @@
         },
         {
             "name": "wpackagist-plugin/goodbye-captcha",
-            "version": "3.1.4",
+            "version": "3.1.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
@@ -503,8 +503,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip",
-                "reference": "trunk",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1494632367",
+                "reference": null,
                 "shasum": null
             },
             "require": {
