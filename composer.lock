@@ -684,7 +684,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.4.9.zip",
-                "reference": null,
+                "reference": "tags/4.9",
                 "shasum": null
             },
             "require": {
@@ -695,16 +695,16 @@
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "2.6.1",
+            "version": "2.6.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/2.6.1"
+                "reference": "tags/2.6.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.1.zip",
-                "reference": "tags/2.6.1",
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.4.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
