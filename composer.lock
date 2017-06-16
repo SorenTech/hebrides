@@ -504,7 +504,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1494632367",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -535,16 +535,16 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "2.0.8",
+            "version": "2.1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/2.0.8"
+                "reference": "tags/2.1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.0.8.zip",
-                "reference": "tags/2.0.8",
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.1.0.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
