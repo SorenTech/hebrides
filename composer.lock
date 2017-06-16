@@ -424,7 +424,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.3.zip",
-                "reference": null,
+                "reference": "tags/1.11.3",
                 "shasum": null
             },
             "require": {
@@ -455,16 +455,16 @@
         },
         {
             "name": "wpackagist-plugin/dashboard-widgets-suite",
-            "version": "1.3",
+            "version": "1.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/dashboard-widgets-suite/",
-                "reference": "trunk"
+                "reference": "tags/1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.zip",
-                "reference": "trunk",
+                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.1.4.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
