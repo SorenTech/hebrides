@@ -7,6 +7,7 @@ web/app/themes/*
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
+web/app/debug.log
 web/php_errorlog
 web/php_mail.log
 
