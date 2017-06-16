@@ -704,7 +704,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.4.zip",
-                "reference": null,
+                "reference": "tags/2.6.4",
                 "shasum": null
             },
             "require": {
@@ -832,26 +832,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/vulnerability-alerts/"
-        },
-        {
-            "name": "wpackagist-plugin/wp-smushit",
-            "version": "2.6.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wp-smushit/",
-                "reference": "tags/2.6.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-smushit.2.6.1.zip",
-                "reference": "tags/2.6.1",
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wp-smushit/"
         }
     ],
     "aliases": [],
