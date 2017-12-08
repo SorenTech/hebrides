@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c609b257594843f80b19264de73e810d",
+    "content-hash": "1c8285ec6b3fa3b14f3d166b6aad2073",
     "packages": [
         {
             "name": "composer/installers",
@@ -555,15 +555,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "2.1.0",
+            "version": "2.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/2.1.0"
+                "reference": "tags/2.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.1.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.2.1.zip",
                 "reference": null,
                 "shasum": null
             },
