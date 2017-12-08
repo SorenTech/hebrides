@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2c3a1df454a86ee6362a7dd333a958f",
+    "content-hash": "6f8a8740aae5a81d9c951491df851f6d",
     "packages": [
         {
             "name": "composer/installers",
@@ -615,15 +615,15 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.9.2",
+            "version": "1.11.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.9.2"
+                "reference": "tags/1.11.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.9.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.11.2.zip",
                 "reference": null,
                 "shasum": null
             },
