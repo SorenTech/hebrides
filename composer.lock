@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2c3a1df454a86ee6362a7dd333a958f",
+    "content-hash": "aa1910d140465ba4dfa19603881837e6",
     "packages": [
         {
             "name": "composer/installers",
@@ -595,15 +595,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "4.4.2",
+            "version": "4.8.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/4.4.2"
+                "reference": "tags/4.8.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.4.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.8.7.zip",
                 "reference": null,
                 "shasum": null
             },
