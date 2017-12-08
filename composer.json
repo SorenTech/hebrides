@@ -51,7 +51,7 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/goodbye-captcha": "^3.1",
     "wpackagist-plugin/two-factor-authentication": "^1.2",
-    "wpackagist-plugin/updraftplus": "^1.12",
+    "wpackagist-plugin/updraftplus": "^1.13",
     "wpackagist-plugin/wp-security-audit-log": "^2.5",
     "wpackagist-plugin/cloudflare": "^3.2",
     "wpackagist-plugin/jch-optimize": "^2.0",
