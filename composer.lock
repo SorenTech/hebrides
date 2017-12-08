@@ -655,15 +655,15 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.2.22",
+            "version": "1.2.35",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.2.22"
+                "reference": "tags/1.2.35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.22.zip",
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.2.35.zip",
                 "reference": null,
                 "shasum": null
             },
