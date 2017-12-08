@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2c3a1df454a86ee6362a7dd333a958f",
+    "content-hash": "2e93a8cbd959c33f721b42e0849c1ef0",
     "packages": [
         {
             "name": "composer/installers",
@@ -455,15 +455,15 @@
         },
         {
             "name": "wpackagist-plugin/cloudflare",
-            "version": "3.2.1",
+            "version": "3.3.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cloudflare/",
-                "reference": "tags/3.2.1"
+                "reference": "tags/3.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.2.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.3.1.zip",
                 "reference": null,
                 "shasum": null
             },
