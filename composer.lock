@@ -519,11 +519,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1511414561",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.11.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -835,15 +835,15 @@
         },
         {
             "name": "wpackagist-plugin/vulnerability-alerts",
-            "version": "1.3.1",
+            "version": "1.3.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/vulnerability-alerts/",
-                "reference": "tags/1.3.1"
+                "reference": "tags/1.3.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.5.zip",
                 "reference": null,
                 "shasum": null
             },
