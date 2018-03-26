@@ -519,11 +519,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1511414561",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.11.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -615,15 +615,15 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.9.2",
+            "version": "1.11.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.9.2"
+                "reference": "tags/1.11.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.9.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.11.7.zip",
                 "reference": null,
                 "shasum": null
             },
