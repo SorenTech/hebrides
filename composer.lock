@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2c3a1df454a86ee6362a7dd333a958f",
+    "content-hash": "db1aa75c572230e7347585a6fa8d91d9",
     "packages": [
         {
             "name": "composer/installers",
@@ -695,15 +695,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "5.9.1",
+            "version": "7.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/5.9.1"
+                "reference": "tags/7.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.5.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.7.5.zip",
                 "reference": null,
                 "shasum": null
             },
