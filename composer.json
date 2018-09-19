@@ -52,7 +52,7 @@
     "wpackagist-plugin/goodbye-captcha": "^3.1",
     "wpackagist-plugin/two-factor-authentication": "^1.2",
     "wpackagist-plugin/updraftplus": "^1.13",
-    "wpackagist-plugin/wp-security-audit-log": "^2.6",
+    "wpackagist-plugin/wp-security-audit-log": "^3.2",
     "wpackagist-plugin/cloudflare": "^3.2",
     "wpackagist-plugin/jch-optimize": "^2.2",
     "humanmade/s3-uploads": "^2.0",
