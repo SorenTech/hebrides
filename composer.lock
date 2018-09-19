@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "6a1296f3b9c54b1b2ce04538a264aaa3",
@@ -822,15 +822,15 @@
         },
         {
             "name": "wpackagist-plugin/cloudflare",
-            "version": "3.2.1",
+            "version": "3.3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cloudflare/",
-                "reference": "tags/3.2.1"
+                "reference": "tags/3.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.2.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
