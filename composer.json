@@ -55,7 +55,7 @@
     "wpackagist-plugin/wp-security-audit-log": "^2.6",
     "wpackagist-plugin/cloudflare": "^3.2",
     "wpackagist-plugin/jch-optimize": "^2.2",
-    "humanmade/s3-uploads": "^1.1",
+    "humanmade/s3-uploads": "^2.0",
     "wpackagist-plugin/shortpixel-image-optimiser": "^4.4",
     "wpackagist-plugin/broken-link-checker": "^1.11",
     "wpackagist-plugin/dashboard-widgets-suite": "^1.3",
