@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a1296f3b9c54b1b2ce04538a264aaa3",
+    "content-hash": "4b84680a65252bfaa098fa647e12684c",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1062,15 +1062,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "5.9.1",
+            "version": "8.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/5.9.1"
+                "reference": "tags/8.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.5.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.8.2.zip",
                 "reference": null,
                 "shasum": null
             },
