@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a1296f3b9c54b1b2ce04538a264aaa3",
+    "content-hash": "a1b537a6a9fbc4eadb8daecc88139c9b",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -886,11 +886,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1524020637",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.18.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1062,15 +1062,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "5.9.1",
+            "version": "9.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/5.9.1"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.5.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.zip?timestamp=1549963880",
                 "reference": null,
                 "shasum": null
             },
