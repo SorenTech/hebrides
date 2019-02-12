@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a1296f3b9c54b1b2ce04538a264aaa3",
+    "content-hash": "5e1167fdb7f90af9189b31c726c09960",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -886,11 +886,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1524020637",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.18.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1082,15 +1082,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "2.6.9.1",
+            "version": "3.3.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/2.6.9.1"
+                "reference": "tags/3.3.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.2.6.9.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.3.3.1.1.zip",
                 "reference": null,
                 "shasum": null
             },
