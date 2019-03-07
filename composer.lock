@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bc2220a21e5a0ab7e3863ec458da2ca0",
+    "content-hash": "2622285d7aee4606cb7e5a1986dc1e9c",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -841,15 +841,15 @@
         },
         {
             "name": "wpackagist-plugin/dashboard-widgets-suite",
-            "version": "1.4",
+            "version": "2.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/dashboard-widgets-suite/",
-                "reference": "tags/1.4"
+                "reference": "tags/2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.1.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
