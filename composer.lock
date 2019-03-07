@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "6a1296f3b9c54b1b2ce04538a264aaa3",
@@ -802,15 +802,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.11.3",
+            "version": "1.11.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "tags/1.11.3"
+                "reference": "tags/1.11.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -886,11 +886,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1524020637",
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.18.zip",
                 "reference": null,
                 "shasum": null
             },
