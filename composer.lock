@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2f5d8ba17973e6715018416364811ff0",
+    "content-hash": "1e5d404d1565d08832014f38aff48474",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1316,15 +1316,15 @@
         },
         {
             "name": "wpackagist-plugin/vulnerability-alerts",
-            "version": "1.3.5",
+            "version": "2.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/vulnerability-alerts/",
-                "reference": "tags/1.3.5"
+                "reference": "tags/2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.1.3.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.2.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
