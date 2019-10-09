@@ -1087,11 +1087,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "trunk"
+                "reference": "tags/2.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.zip?timestamp=1569881388"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.5.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1119,15 +1119,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "4.14.5",
+            "version": "4.14.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/4.14.5"
+                "reference": "tags/4.14.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.14.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.14.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
