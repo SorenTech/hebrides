@@ -1051,11 +1051,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1571533441"
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.33.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1227,15 +1227,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "3.5.1.1",
+            "version": "3.5.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/3.5.1.1"
+                "reference": "tags/3.5.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.3.5.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.3.5.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
