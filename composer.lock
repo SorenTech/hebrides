@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1e5d404d1565d08832014f38aff48474",
+    "content-hash": "3cb7b94f0f6e0eb6cf17a04bd115f023",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1051,11 +1051,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1571533441"
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.33.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1227,15 +1227,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "3.5.1.1",
+            "version": "4.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/3.5.1.1"
+                "reference": "tags/4.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.3.5.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.4.0.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
