@@ -1051,11 +1051,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "trunk"
+                "reference": "tags/3.1.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1571533441"
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.33.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1087,11 +1087,11 @@
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "trunk"
+                "reference": "tags/2.5.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.zip?timestamp=1571157816"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.5.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1173,15 +1173,15 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.6.2",
+            "version": "1.8.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.6.2"
+                "reference": "tags/1.8.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.6.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.8.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
