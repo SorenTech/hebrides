@@ -1279,15 +1279,15 @@
         },
         {
             "name": "wpackagist-plugin/goodbye-captcha",
-            "version": "3.1.33",
+            "version": "3.1.43",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/goodbye-captcha/",
-                "reference": "tags/3.1.33"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.3.1.33.zip"
+                "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1602646261"
             },
             "require": {
                 "composer/installers": "~1.0"
