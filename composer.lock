@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "057c1e66bd06595d2209a174db0e7ee1",
+    "content-hash": "61945c90cf6c0e1c02bb041e1c665301",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1347,15 +1347,15 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "5.3.9",
+            "version": "6.3.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "tags/5.3.9"
+                "reference": "tags/6.3.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.5.3.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.6.3.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
