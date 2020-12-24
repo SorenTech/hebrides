@@ -1308,15 +1308,15 @@
         },
         {
             "name": "wpackagist-plugin/dashboard-widgets-suite",
-            "version": "2.6.2",
+            "version": "2.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/dashboard-widgets-suite/",
-                "reference": "tags/2.6.2"
+                "reference": "tags/2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.6.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
