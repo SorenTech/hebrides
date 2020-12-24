@@ -1380,7 +1380,7 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "2.6.4",
+            "version": "2.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
