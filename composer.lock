@@ -1290,15 +1290,15 @@
         },
         {
             "name": "wpackagist-plugin/cloudflare",
-            "version": "3.8.7",
+            "version": "3.8.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cloudflare/",
-                "reference": "tags/3.8.7"
+                "reference": "tags/3.8.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.8.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.8.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
