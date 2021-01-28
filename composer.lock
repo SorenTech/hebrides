@@ -1369,15 +1369,15 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "6.5.0",
+            "version": "6.5.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "tags/6.5.0"
+                "reference": "tags/6.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.6.5.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.6.5.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
