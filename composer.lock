@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5282ee9591260f23c7f1567a980717a5",
+    "content-hash": "b2ff13173bf02a74e5fef3b50e17cbcf",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1297,15 +1297,15 @@
         },
         {
             "name": "wpackagist-plugin/cloudflare",
-            "version": "3.8.9",
+            "version": "4.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cloudflare/",
-                "reference": "tags/3.8.9"
+                "reference": "tags/4.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cloudflare.3.8.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.4.0.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
