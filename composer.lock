@@ -1651,15 +1651,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "4.22.0",
+            "version": "4.22.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/4.22.0"
+                "reference": "tags/4.22.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
