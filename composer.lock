@@ -1759,15 +1759,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-security-audit-log",
-            "version": "4.2.2",
+            "version": "4.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-security-audit-log/",
-                "reference": "tags/4.2.2"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.4.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.zip?timestamp=1621505585"
             },
             "require": {
                 "composer/installers": "~1.0"
