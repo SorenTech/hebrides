@@ -1705,15 +1705,15 @@
         },
         {
             "name": "wpackagist-plugin/two-factor-authentication",
-            "version": "1.9.4",
+            "version": "1.10.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/two-factor-authentication/",
-                "reference": "tags/1.9.4"
+                "reference": "tags/1.10.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.9.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.10.0.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
