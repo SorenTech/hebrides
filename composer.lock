@@ -1543,15 +1543,15 @@
         },
         {
             "name": "wpackagist-plugin/dashboard-widgets-suite",
-            "version": "2.8",
+            "version": "2.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/dashboard-widgets-suite/",
-                "reference": "tags/2.8"
+                "reference": "tags/2.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
