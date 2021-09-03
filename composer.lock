@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b38f08eebcac8d478d6e2e28554b738c",
+    "content-hash": "59a8398649e40441cce91dbcc7179927",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1518,7 +1518,7 @@
                 "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.15.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/broken-link-checker/"
@@ -1536,7 +1536,7 @@
                 "url": "https://downloads.wordpress.org/plugin/cloudflare.4.5.1.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/cloudflare/"
@@ -1554,7 +1554,7 @@
                 "url": "https://downloads.wordpress.org/plugin/dashboard-widgets-suite.2.9.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/dashboard-widgets-suite/"
@@ -1572,7 +1572,7 @@
                 "url": "https://downloads.wordpress.org/plugin/epoch.1.0.14.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/epoch/"
@@ -1590,25 +1590,25 @@
                 "url": "https://downloads.wordpress.org/plugin/goodbye-captcha.zip?timestamp=1602646261"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/goodbye-captcha/"
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "6.8.0",
+            "version": "7.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "tags/6.8.0"
+                "reference": "tags/7.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.6.8.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.7.0.0.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/"
@@ -1626,7 +1626,7 @@
                 "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.10.0.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jch-optimize/"
@@ -1644,7 +1644,7 @@
                 "url": "https://downloads.wordpress.org/plugin/postmatic-social-commenting.1.1.1.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/postmatic-social-commenting/"
@@ -1662,7 +1662,7 @@
                 "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.4.22.5.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/shortpixel-image-optimiser/"
@@ -1680,7 +1680,7 @@
                 "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.23.1.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/so-widgets-bundle/"
@@ -1698,7 +1698,7 @@
                 "url": "https://downloads.wordpress.org/plugin/sparkpost.3.2.5.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sparkpost/"
@@ -1716,7 +1716,7 @@
                 "url": "https://downloads.wordpress.org/plugin/two-factor-authentication.1.10.4.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/two-factor-authentication/"
@@ -1734,7 +1734,7 @@
                 "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.61.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/updraftplus/"
@@ -1752,7 +1752,7 @@
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.0.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordpress-seo/"
@@ -1770,7 +1770,7 @@
                 "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.4.3.2.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-security-audit-log/"
@@ -1841,7 +1841,7 @@
                 "url": "https://downloads.wordpress.org/plugin/developer.1.2.6.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/developer/"
@@ -1859,7 +1859,7 @@
                 "url": "https://downloads.wordpress.org/plugin/vulnerability-alerts.2.0.zip"
             },
             "require": {
-                "composer/installers": "~1.0"
+                "composer/installers": "~1.0 || ~2.0"
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/vulnerability-alerts/"
