@@ -1722,15 +1722,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.62",
+            "version": "1.16.63",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.62"
+                "reference": "tags/1.16.63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.62.zip"
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.63.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
