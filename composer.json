@@ -48,7 +48,7 @@
     "vlucas/phpdotenv": "^4.1.8",
     "oscarotero/env": "^1.1",
     "johnpbloch/wordpress": "^5.2",
-    "roots/wp-password-bcrypt": "1.0.0",
+    "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-plugin/goodbye-captcha": "^3.1",
     "wpackagist-plugin/two-factor-authentication": "^1.2",
     "wpackagist-plugin/updraftplus": "^1.13",
