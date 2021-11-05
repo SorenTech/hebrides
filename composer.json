@@ -54,7 +54,7 @@
     "wpackagist-plugin/updraftplus": "^1.13",
     "wpackagist-plugin/wp-security-audit-log": "^4.1",
     "wpackagist-plugin/cloudflare": "^4.0",
-    "wpackagist-plugin/jch-optimize": "^2.2",
+    "wpackagist-plugin/jch-optimize": "^3.0",
     "humanmade/s3-uploads": "^3.0",
     "wpackagist-plugin/shortpixel-image-optimiser": "^4.4",
     "wpackagist-plugin/broken-link-checker": "^1.11",
