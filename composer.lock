@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4f90ca8de90c4fd9803a716a58f81cb9",
+    "content-hash": "21a36729897605ec5fe1fb77e5c07bb7",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1631,15 +1631,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "2.10.0",
+            "version": "3.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/2.10.0"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.2.10.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.zip?timestamp=1636077244"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
