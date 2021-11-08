@@ -1631,15 +1631,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "trunk"
+                "reference": "tags/3.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.zip?timestamp=1636077244"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.3.0.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0 || ~2.0"
