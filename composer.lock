@@ -1615,15 +1615,15 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "7.2.0",
+            "version": "7.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "trunk"
+                "reference": "tags/7.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.zip?timestamp=1635955878"
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.7.3.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
