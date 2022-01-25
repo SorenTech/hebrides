@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "098efa6a803bc3fb1ec317b0836fd3a5",
+    "content-hash": "64702e78ce416e8dbb7e9fe0242371ae",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1759,15 +1759,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "17.9",
+            "version": "18.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/17.9"
+                "reference": "tags/18.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.17.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.18.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
