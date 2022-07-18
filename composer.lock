@@ -1680,15 +1680,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.11.16",
+            "version": "1.11.17",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "trunk"
+                "reference": "tags/1.11.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.zip?timestamp=1632795432"
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.17.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
