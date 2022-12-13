@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8cfed9e79f275286ff91db17ac311970",
+    "content-hash": "ab9327159cc0f703ed02ddb0d9055e34",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -1777,15 +1777,15 @@
         },
         {
             "name": "wpackagist-plugin/google-analytics-dashboard-for-wp",
-            "version": "7.10.1",
+            "version": "8.11.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/google-analytics-dashboard-for-wp/",
-                "reference": "tags/7.10.1"
+                "reference": "tags/8.11.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.7.10.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.8.11.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
