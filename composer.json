@@ -57,7 +57,7 @@
     "wpackagist-plugin/jch-optimize": "^3.0",
     "humanmade/s3-uploads": "^3.0",
     "wpackagist-plugin/shortpixel-image-optimiser": "^5.0",
-    "wpackagist-plugin/broken-link-checker": "^1.11",
+    "wpackagist-plugin/broken-link-checker": "^2.0",
     "wpackagist-plugin/dashboard-widgets-suite": "^3.0",
     "wpackagist-plugin/google-analytics-dashboard-for-wp": "^8.11",
     "wpackagist-plugin/sparkpost": "^3.0",
