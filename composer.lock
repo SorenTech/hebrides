@@ -1795,15 +1795,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "3.2.2",
+            "version": "3.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/3.2.2"
+                "reference": "tags/3.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.3.2.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.3.2.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
