@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab9d3fa2162161c118ecdf9e081eea27",
+    "content-hash": "8c2a29e401ebd3d38cda6a07d772b3c8",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -1687,15 +1687,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.11.21",
+            "version": "2.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "tags/1.11.21"
+                "reference": "tags/2.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.21.zip"
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.2.0.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
