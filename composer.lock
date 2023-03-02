@@ -1849,15 +1849,15 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.46.5",
+            "version": "1.46.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.46.5"
+                "reference": "tags/1.46.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.46.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.46.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
