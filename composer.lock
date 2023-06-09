@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c2a29e401ebd3d38cda6a07d772b3c8",
+    "content-hash": "966c77cb0f821c48bab1bd13b766172e",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -1795,15 +1795,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "3.2.3",
+            "version": "4.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/3.2.3"
+                "reference": "tags/4.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.3.2.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.4.0.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
