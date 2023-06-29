@@ -1831,15 +1831,15 @@
         },
         {
             "name": "wpackagist-plugin/shortpixel-image-optimiser",
-            "version": "5.2.3",
+            "version": "5.3.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/shortpixel-image-optimiser/",
-                "reference": "tags/5.2.3"
+                "reference": "tags/5.3.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.5.2.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.5.3.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
