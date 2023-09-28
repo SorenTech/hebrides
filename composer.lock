@@ -1867,15 +1867,15 @@
         },
         {
             "name": "wpackagist-plugin/sparkpost",
-            "version": "3.2.5",
+            "version": "3.2.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sparkpost/",
-                "reference": "tags/3.2.5"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sparkpost.3.2.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/sparkpost.zip?timestamp=1692735535"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
