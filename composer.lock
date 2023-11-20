@@ -1795,15 +1795,15 @@
         },
         {
             "name": "wpackagist-plugin/jch-optimize",
-            "version": "4.0.1",
+            "version": "4.1.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jch-optimize/",
-                "reference": "tags/4.0.1"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jch-optimize.4.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/jch-optimize.zip?timestamp=1700168990"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1947,7 +1947,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.zip?timestamp=1698903794"
+                "url": "https://downloads.wordpress.org/plugin/wp-security-audit-log.zip?timestamp=1700217090"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
